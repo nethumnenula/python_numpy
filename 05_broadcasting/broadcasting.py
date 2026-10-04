@@ -1,0 +1,18 @@
+import numpy as np
+
+# Broadcasting allows NumPy to perform operations on arrays
+# with different shapes by virtually expanding dimensions
+# so they match the larger array's shape.
+
+# The dimension have the same size
+# OR
+# One of the dimension has a size of 1.
+
+
+array1 = np.array([[1, 2, 3, 4]])
+array2 = np.array([[5], [6], [7], [8]])
+
+print(array1.shape)
+print(array2.shape)
+
+print(array1 * array2)
