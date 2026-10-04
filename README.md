@@ -1,2 +1,4 @@
 # Numerical Python
-## For Data Science 
+## Use Cases
+- Data Science
+- AI & Machine Learning
