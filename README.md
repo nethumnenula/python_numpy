@@ -1,4 +1,4 @@
-# Numerical Python
+# NumPy (Numerical Python)
 ## Use Cases
 - Data Science
 - AI & Machine Learning
